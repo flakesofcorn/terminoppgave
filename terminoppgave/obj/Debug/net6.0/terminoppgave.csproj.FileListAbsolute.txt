@@ -1,0 +1,5 @@
+C:\Users\sofian\OneDrive - Osloskolen\IT\Terminoppgave_fr\main\terminoppgave\obj\Debug\net6.0\terminoppgave.csproj.AssemblyReference.cache
+C:\Users\sofian\OneDrive - Osloskolen\IT\Terminoppgave_fr\main\terminoppgave\obj\Debug\net6.0\terminoppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofian\OneDrive - Osloskolen\IT\Terminoppgave_fr\main\terminoppgave\obj\Debug\net6.0\terminoppgave.AssemblyInfoInputs.cache
+C:\Users\sofian\OneDrive - Osloskolen\IT\Terminoppgave_fr\main\terminoppgave\obj\Debug\net6.0\terminoppgave.AssemblyInfo.cs
+C:\Users\sofian\OneDrive - Osloskolen\IT\Terminoppgave_fr\main\terminoppgave\obj\Debug\net6.0\terminoppgave.csproj.CoreCompileInputs.cache
